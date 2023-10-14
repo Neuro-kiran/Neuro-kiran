@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning **Generative AI**
 - 👯 I’m looking to collaborate on **ML AI projects**
 - 🤝 I’m looking for help with **Senior Data Scientist Guidance**
-- 👨‍💻 All of my projects are available at [codewithkiranmarne](https://github.com/codewithkiranmarne)
 - 💬 Ask me about **Extracting Insights and Making Data-Driven Decisions.**
 - 📫 How to reach me: [kiranmarne.sknsits.it@gmail.com](mailto:kiranmarne.sknsits.it@gmail.com)
 
