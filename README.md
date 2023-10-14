@@ -5,23 +5,16 @@
 - 🌱 I’m currently learning **Generative AI**
 - 👯 I’m looking to collaborate on **ML AI projects**
 - 🤝 I’m looking for help with **Senior Data Scientist Guidance**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/codewithkiranmarne)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Neuro-kiran)
 - 💬 Ask me about **Extracting Insights and Making Data-Driven Decisions.**
 - 📫 How to reach me: [kiranmarne.sknsits.it@gmail.com](mailto:kiranmarne.sknsits.it@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kiranmarne" target="blank"><img align="center" src="https://example.com/images/linkedin.png" alt="kiranmarne" height="30" width="30" /></a>
-<a href="https://kaggle.com/kiranmarne" target="blank"><img align="center" src="https://example.com/images/kaggle.png" alt="kiranmarne" height="30" width="30" /></a>
-<a href="https://instagram.com/sudo_kiran" target="blank"><img align="center" src="https://example.com/images/instagram.png" alt="sudo_kiran" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/kiranmarne" target="blank"><img align="center" src="https://example.com/images/youtube.png" alt="kiranmarne" height="30" width="30" /></a>
+  <img src="https://example.com/images/python.png" alt="Python" height="30" width="30" />
+  <img src="https://example.com/images/r.png" alt="R" height="30" width="30" />
+  <img src="https://example.com/images/machine-learning.png" alt="Machine Learning" height="30" width="30" />
+  <img src="https://example.com/images/data-analysis.png" alt="Data Analysis" height="30" width="30" />
+  <img src="https://example.com/images/data-visualization.png" alt="Data Visualization" height="30" width="30" />
+  <!-- Add similar image tags for other skills -->
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://example.com/images/python.png" alt="Python" height="30" width="30" />
-<img src="https://example.com/images/r.png" alt="R" height="30" width="30" />
-<!-- Add similar image tags for other tools and languages -->
-</p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithkiranmarne&show_icons=true&locale=en&layout=compact" alt="codewithkiranmarne" />
