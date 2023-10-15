@@ -12,7 +12,7 @@
 <h3 align="left">Skills and Tools:</h3>
 <p align="left">
   <img src="https://example.com/images/python.png" alt="Python" height="30" width="30" />
-  <img src="https://example.com/images/r.png" alt "R" height="30" width="30" />
+  <img src="https://example.com/images/r.png" alt="R" height="30" width="30" />
   <img src="https://example.com/images/machine-learning.png" alt="Machine Learning" height="30" width="30" />
   <img src="https://example.com/images/data-analysis.png" alt="Data Analysis" height="30" width="30" />
   <img src="https://example.com/images/data-visualization.png" alt="Data Visualization" height="30" width="30" />
@@ -21,6 +21,7 @@
   <img src="https://example.com/images/big-data.png" alt="Big Data" height="30" width="30" />
   <img src="https://example.com/images/sql.png" alt="SQL" height="30" width="30" />
   <!-- Add similar image tags for other skills and tools -->
+</p>
 
 <h3 align="left">Libraries and Frameworks:</h3>
 <p align="left">
