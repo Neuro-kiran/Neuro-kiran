@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran Marne</h1>
-<h3 align="center">A freelance Data Scientist, passionate about extracting insights and making data-driven decisions.</h3>
+<h3 align="center">Passionate about extracting insights and making data-driven decisions.</h3>
 
 - 🔭 I’m currently working on **AI projects**
 - 🌱 I’m currently learning **Generative AI**
