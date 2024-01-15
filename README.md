@@ -2,9 +2,9 @@
 <h3 align="center">Passionate about extracting insights and making data-driven decisions.</h3>
 
 - 🔭 I’m currently working on **AI projects**
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **MLOps**
 - 👯 I’m looking to collaborate on **ML AI projects**
-- 🤝 I’m looking for help with **Senior Data Scientist Guidance**
+- 🤝 I’m looking for help with **Senior Data Scientist Guidanc**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Neuro-kiran)
 - 💬 Ask me about **Extracting Insights and Making Data-Driven Decisions.**
 - 📫 How to reach me: [kiranmarne.sknsits.it@gmail.com](mailto:kiranmarne.sknsits.it@gmail.com)
