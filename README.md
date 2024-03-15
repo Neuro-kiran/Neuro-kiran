@@ -7,7 +7,7 @@
 </head>
 <body>
   <h1 align="center">Hi 👋, I'm Kiran Marne</h1>
-  <h3 align="center">Passionate about extracting insights and making data-driven decisions.</h3>
+  <h3 align="center">As the world of chips moves forward by leaps and bounds, I take pleasure in simplifying the complexities.</h3>
 
   <ul>
     <li>🔭 I’m currently working on <strong>Finance Domain</strong></li>
