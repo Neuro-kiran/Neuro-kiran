@@ -6,7 +6,7 @@
   <title>Kiran Marne - Data Scientist</title>
 </head>
 <body>
-  <h1 align="center">Hi 👋, I'm Kiran Marne</h1>
+  <h1 align="center">"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि"</h1>
   <h3 align="center">As the world of chips moves forward by leaps and bounds, I take pleasure in simplifying the complexities.</h3>
 
   <ul>
