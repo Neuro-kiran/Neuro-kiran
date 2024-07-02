@@ -11,7 +11,7 @@
 
   <ul>
     <li>🔭 I’m currently working on <strong>Finance Domain</strong></li>
-    <li>🌱 I’m currently learning <strong>Open AI</strong></li>
+    <li>🌱 I’m currently learning <strong>Advance NLP</strong></li>
     <li>👯 I’m looking to collaborate on <strong>ML AI projects</strong></li>
     <li>👨‍💻 All of my projects are available on <a href="https://github.com/Neuro-kiran">GitHub</a></li>
     <li>💬 Ask me about <strong>Extracting Insights and Making Data-Driven Decisions</strong></li>
