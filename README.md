@@ -12,7 +12,7 @@
   <ul>
     <li>🔭 I’m currently working on <strong>Gen AI</strong></li>
     <li>🌱 I’m currently learning <strong>Gen AI</strong></li>
-    <li>👯 I’m looking to collaborate on <strong>AI,ML,DL,NLP,GEN AI projects</strong></li>
+    <li>👯 I’m looking to collaborate on <strong>AI, ML, DL, NLP, GEN AI projects</strong></li>
     <li>👨‍💻 All of my projects are available on <a href="https://github.com/Neuro-kiran">GitHub</a></li>
     <li>💬 Ask me about <strong>Extracting Insights and Making Data-Driven Decisions</strong></li>
     <li>📫 How to reach me: <a href="mailto:marne.kiran44@gmail.com@gmail.com">marne.kiran44@gmail.com</a></li>
