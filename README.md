@@ -1,120 +1,39 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kiran Marne - Data Scientist</title>
-  <!-- Bootstrap CSS for responsiveness -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f9;
-    }
+# Kiran Marne - Data Scientist
 
-    h1, h3 {
-      color: #333;
-    }
+> **"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि"**
 
-    h1 {
-      margin-top: 20px;
-      font-size: 2.5rem;
-    }
+### As the world of chips moves forward by leaps and bounds, I take pleasure in simplifying the complexities.
 
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
+- 🔭 I’m currently working on **Gen AI**
+- 🌱 I’m currently learning **Gen AI**
+- 👯 I’m looking to collaborate on **AI, ML, DL, NLP, GEN AI projects**
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Neuro-kiran)
+- 💬 Ask me about **Extracting Insights and Making Data-Driven Decisions**
+- 📫 How to reach me: [marne.kiran44@gmail.com](mailto:marne.kiran44@gmail.com)
 
-    ul li {
-      margin: 10px 0;
-    }
+## ⚙️ Technical Skills
 
-    ul li strong {
-      color: #0056b3;
-    }
+| **Category**  | **Technologies** |
+|---------------|------------------|
+| **Data**      | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-88B04B?style=for-the-badge) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) |
+| **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-2D3A54?style=for-the-badge&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) |
+| **Machine Learning** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **MLOps** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![MLFlow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) ![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white) |
+| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) |
+| **Natural Language Processing** | ![NLTK](https://img.shields.io/badge/NLTK-2B5F75?style=for-the-badge) ![Spacy](https://img.shields.io/badge/Spacy-09A3D5?style=for-the-badge) ![word2vec](https://img.shields.io/badge/word2vec-1A73E8?style=for-the-badge) |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) |
+| **Database** | ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-E25A1C?style=for-the-badge&logo=mongodb&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) |
+| **Web Frameworks** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
+| **Generative AI** | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD500?style=for-the-badge&logo=huggingface&logoColor=white) ![GPT-3](https://img.shields.io/badge/GPT--3-430098?style=for-the-badge&logo=openai&logoColor=white) |
+| **Deployment** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
-    .logos img {
-      width: 50px;
-      margin: 5px;
-    }
+## 🛠️ Tools & Practices
 
-    .contact-info {
-      margin: 20px 0;
-    }
+- **Project Management**: JIRA, Confluence
+- **Professional Values**: Motivation & Energy, Continuous Learning
 
-    .container {
-      max-width: 1100px;
-      margin: auto;
-    }
-  </style>
-</head>
-<body>
+## 🖥️ Get in touch:
 
-  <div class="container">
-    <h1 class="text-center">"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि"</h1>
-    <h3 class="text-center">As the world of chips moves forward by leaps and bounds, I take pleasure in simplifying the complexities.</h3>
-
-    <ul class="list-group mt-4">
-      <li class="list-group-item">🔭 I’m currently working on <strong>Gen AI</strong></li>
-      <li class="list-group-item">🌱 I’m currently learning <strong>Gen AI</strong></li>
-      <li class="list-group-item">👯 I’m looking to collaborate on <strong>AI, ML, DL, NLP, GEN AI projects</strong></li>
-      <li class="list-group-item">👨‍💻 All of my projects are available on <a href="https://github.com/Neuro-kiran">GitHub</a></li>
-      <li class="list-group-item">💬 Ask me about <strong>Extracting Insights and Making Data-Driven Decisions</strong></li>
-      <li class="list-group-item">📫 How to reach me: <a href="mailto:marne.kiran44@gmail.com">marne.kiran44@gmail.com</a></li>
-    </ul>
-
-    <h3 class="mt-5">Technical Skills:</h3>
-    <div class="row logos">
-      <div class="col-md-4 col-sm-6">
-        <strong>Data:</strong> Numpy, Pandas, BeautifulSoup, PySpark
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png" alt="NumPy logo">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas logo">
-      </div>
-      <div class="col-md-4 col-sm-6">
-        <strong>Visualization:</strong> Matplotlib, Seaborn, Plotly, Tableau, PowerBI
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="Matplotlib logo">
-        <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn logo">
-      </div>
-      <div class="col-md-4 col-sm-6">
-        <strong>Machine Learning:</strong> Scikit-Learn, Time Series Analysis
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn logo">
-      </div>
-    </div>
-
-    <!-- Adding more logos for the rest of the technical skills -->
-    <div class="row logos mt-3">
-      <div class="col-md-4 col-sm-6">
-        <strong>MLOps:</strong> GitHub Actions, Gitlab CI/CD, MLFlow, WandB, Comet
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Actions logo">
-      </div>
-      <div class="col-md-4 col-sm-6">
-        <strong>Deep Learning:</strong> PyTorch, TensorFlow, Keras
-        <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch logo">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow logo">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras logo">
-      </div>
-      <div class="col-md-4 col-sm-6">
-        <strong>Computer Vision:</strong> OpenCV, YOLOv5, CNN, ResNet
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/OpenCV_Logo_with_text.png" alt="OpenCV logo">
-      </div>
-    </div>
-
-    <h3 class="mt-5">Tools & Practices:</h3>
-    <ul class="list-group">
-      <li class="list-group-item"><strong>Project Management:</strong> JIRA, Confluence</li>
-      <li class="list-group-item"><strong>Professional Values:</strong> Motivation & Energy, Continuous Learning</li>
-    </ul>
-
-    <div class="text-center contact-info">
-      <h4>Get in touch:</h4>
-      <a href="mailto:marne.kiran44@gmail.com" class="btn btn-primary">Email Me</a>
-      <a href="https://github.com/Neuro-kiran" class="btn btn-dark">My GitHub</a>
-    </div>
-  </div>
-
-  <!-- Bootstrap JS for responsiveness -->
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
-</body>
-</html>
+[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marne.kiran44@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neuro-kiran)
