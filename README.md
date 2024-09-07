@@ -1,4 +1,4 @@
-<h1 align="center">Kiran Marne - Data Scientist</h1>
+<h1 align="center">Kiran Marne - AI ML Engineer</h1>
 
 <p align="center">
   <strong>"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि"</strong>
