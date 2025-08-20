@@ -10,8 +10,8 @@
 
 ### 🌟 About Me
 
-- 🔭 I’m currently working on **Gen AI**
-- 🌱 I’m currently learning **Gen AI**
+- 🔭 I’m currently working on **AI Agents**
+- 🌱 I’m currently learning **AI Agents**
 - 👯 I’m looking to collaborate on **AI, ML, DL, NLP, GEN AI projects**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Neuro-kiran)
 - 💬 Ask me about **Extracting Insights and Making Data-Driven Decisions**
