@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **AI Agents**
 - 🌱 I’m currently learning **AI Agents**
-- 👯 I’m looking to collaborate on **AI, ML, DL, NLP, GEN AI projects**
+- 👯 I’m looking to collaborate on **GEN AI, AI Agent projects**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Neuro-kiran)
 - 💬 Ask me about **Extracting Insights and Making Data-Driven Decisions**
 - 📫 Reach me: [marne.kiran44@gmail.com](mailto:marne.kiran44@gmail.com)
