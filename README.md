@@ -1,44 +1,67 @@
-<h1 align="center">Kiran Marne – AI/ML Engineer</h1>
+<h1 align="center">नमस्ते, I'm Kiran 👋</h1>
 
 <p align="center">
-  <strong>“कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि”</strong>
+  <strong>AI/ML Engineer · Agentic AI · GenAI</strong><br>
+  Bengaluru, India
 </p>
 
 <p align="center">
-  Building production-grade Generative AI & Agentic systems that simplify complexity.
+  <em>“कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि”</em>
 </p>
 
 ---
 
-## 🌟 About Me
+## 🌟 Who I Am
 
-- 🔭 Currently building multilingual educational content generation systems.
-- 🌱 Deep-diving into **Agentic AI, LangGraph, and RAG systems**.
-- 👯 Open to collaborate on **GenAI, AI Agents, and Multilingual NLP**.
-- 👨‍💻 More projects on [GitHub](https://github.com/Neuro-kiran).
-- 💬 Ask me about **production AI deployment, vector DBs, and audio processing**.
-- 📫 Reach me: [marne.kiran44@gmail.com](mailto:marne.kiran44@gmail.com)
+- 🧠 AI/ML Engineer with ~3 years building real-world AI systems.
+- 🇮🇳 Passionate about multilingual & Indic-language AI for education.
+- 🕸️ Love designing **agentic workflows** that tie tools, memory, and RAG together.
+- 🎯 Currently focused on **GenAI, AIOps-style observability, and production deployments**.
 
 ---
 
-## 🛠️ Generative AI & Agentic Systems
+## 🔭 What I’m Doing Now
 
-| **Category**        | **Technologies** |
-|---------------------|------------------|
-| **LLMs & GenAI**    | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD500?style=for-the-badge&logo=huggingface&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-430098?style=for-the-badge&logo=openai&logoColor=white) ![GPT-4o](https://img.shields.io/badge/GPT--4o-430098?style=for-the-badge&logo=openai&logoColor=white) ![Llama](https://img.shields.io/badge/Llama-FF6B35?style=for-the-badge&logo=meta&logoColor=white) |
-
----
-
-## 🚀 What I’m Focusing On
-
-- Agentic workflows for real-world, production-grade use cases.
-- Multilingual and low-resource NLP for Indian languages.
-- Reliable evaluation, observability, and monitoring for GenAI systems.
+- 🚀 Building multilingual educational content generation systems for Indian users.
+- 🧩 Experimenting with **LangGraph**, tool-calling agents, and long-term memory.
+- 🎧 Working on audio/speech pipelines that actually survive production noise.
+- 📈 Exploring systematic evaluation & monitoring stacks for GenAI in the wild.
 
 ---
 
-## 📂 Featured Work
+## 🛠️ Tech I Use
 
-- 🧠 End-to-end AI agents with tools, memory, and RAG.
-- 🎧 Audio and speech processing pipelines for real-world applications.
-- ☁️ Cloud-native deployments using Docker and modern MLOps practices.
+### 🧬 AI / GenAI / NLP
+- LLMs: GPT‑4o, Llama family, open-weight models
+- Frameworks: LangChain, LangGraph, Hugging Face ecosystem
+- Workloads: RAG, tool-using agents, multilingual & low-resource NLP
+
+### ☁️ Backend, MLOps & Infra
+- Backend: Python, FastAPI, REST APIs
+- Infra: Docker, Linux, basic cloud (AWS/GCP), CI/CD fundamentals
+- Data: Vector DBs, FAISS, observability & logging for AI systems
+
+---
+
+## 📂 Projects You Should See
+
+- 🧠 **Agentic AI Systems**  
+  End‑to‑end agents with tools, memory, and RAG for practical workflows.
+
+- 📚 **Multilingual EdTech Pipelines**  
+  Content generation systems targeting Indian languages and diverse learners.
+
+- 🎧 **Audio & Speech Processing**  
+  Robust pipelines from noisy real‑world data to usable downstream features.
+
+More on my GitHub: [github.com/Neuro-kiran](https://github.com/Neuro-kiran)
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 Open to: AI/ML Engineer, GenAI Engineer, Agentic AI roles (onsite/remote, preferably startup environments)
+- 📫 Email: [marne.kiran44@gmail.com](mailto:marne.kiran44@gmail.com)
+- 💬 Happy to chat about: **GenAI systems, agent design, and taking models to production**
+
+Thanks for stopping by! 🙌
